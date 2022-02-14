@@ -1,0 +1,4 @@
+"code-runner.executorMap": {
+    "rust": "cargo run # $fileName"
+ }{
+}
